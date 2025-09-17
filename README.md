@@ -5,12 +5,12 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Brayan Medina Tixe -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-👨‍💻  Actualmente trabajo en la Universidad de Huánuco (UDH) como Desarrollador de Software.
-💡  Me apasiona explorar nuevas tecnologías y crear soluciones prácticas.
-🎓  Estoy llevando cursos de Desarrollo de Software para fortalecer mis habilidades.
-🌱  Enfocado en aprender más sobre arquitectura de software, microservicios y tecnologías modernas.
-✉️  Puedes escribirme a: juniormt805@gmail.com .
-🔗  Sígueme en mis redes: https://www.linkedin.com/in/brayan-junior-medina-tixe-381aa12b1/
+👨‍💻  Actualmente trabajo en la Universidad de Huánuco (UDH) como Desarrollador de Software.\
+💡  Me apasiona explorar nuevas tecnologías y crear soluciones prácticas.\
+🎓  Estoy llevando cursos de Desarrollo de Software para fortalecer mis habilidades.\
+🌱  Enfocado en aprender más sobre arquitectura de software, microservicios y tecnologías modernas.\
+✉️  Puedes escribirme a: juniormt805@gmail.com .\
+🔗  Sígueme en mis redes: https://www.linkedin.com/in/brayan-junior-medina-tixe-381aa12b1/.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
