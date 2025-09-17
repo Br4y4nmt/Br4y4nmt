@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Brayan Medina Tixe -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨‍💻 Sobre mí
 👨‍💻  Actualmente trabajo en la Universidad de Huánuco (UDH) como Desarrollador de Software.\
 💡  Me apasiona explorar nuevas tecnologías y crear soluciones prácticas.\
 🎓  Estoy llevando cursos de Desarrollo de Software para fortalecer mis habilidades.\
@@ -100,10 +100,6 @@
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
+
