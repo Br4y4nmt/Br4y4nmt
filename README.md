@@ -60,4 +60,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=algolia"/>
 </p>
 
-<p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/> </p>
+
