@@ -15,9 +15,10 @@
 - 🌱 Currently improving skills in modern backend technologies
 
 📫 **Contact:**  
-- Email: **juniormt805@gmail.com**  
+- Email: [juniormt805@gmail.com](mailto:juniormt805@gmail.com)
 - LinkedIn: [Brayan Medina Tixe](https://www.linkedin.com/in/brayan-junior-medina-tixe-381aa12b1/)
-
+- Portfolio: https://portafolio-web-blush.vercel.app/
+- Instagram: https://www.instagram.com/brayan_medina07
 ---
 
 ## 🛠 Tech Stack
@@ -59,6 +60,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4mnt&layout=compact&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br4y4mnt&theme=algolia"/>
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/> </p>
