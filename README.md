@@ -1,4 +1,4 @@
-![Bryan Medina Banner](./assets/ChatGPT%20Image%2017%20sept%202025,%2012_01_43.png)
+![Bryan Medina Banner](./assets/banergithub.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Brayan Medina Tixe</h2>
 
