@@ -16,7 +16,7 @@
 
 📫 **Contact:**  
 - Email: [juniormt805@gmail.com](mailto:juniormt805@gmail.com)
-- LinkedIn: [Brayan Medina Tixe](https://www.linkedin.com/in/brayan-junior-medina-tixe-381aa12b1/)
+- LinkedIn: [Brayan Medina Tixe](https://www.linkedin.com/in/bryan-junior-medina-tixe-34792a2b2/)
 - Portfolio: https://portafolio-web-blush.vercel.app/
 - Instagram: https://www.instagram.com/brayan_medina07
 ---
