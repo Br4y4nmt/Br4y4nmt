@@ -1,4 +1,4 @@
-![Bryan Medina Banner](./assets/banergithub.png)
+![Bryan Medina Banner](./assets/banergithub1.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Brayan Medina Tixe</h2>
 
