@@ -1,6 +1,6 @@
 ![Bryan Medina Banner](./assets/banergithub1.png)
 
-<h2 align="center">Hi, I'm Brayan Medina Tixe 👋</h2>
+<h2 align="center">Hi, I'm Bryan Junior Medina Tixe 👋</h2>
 <p align="center">
   Systems & Informatics Engineer | Software Developer
 </p>
@@ -56,8 +56,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Br4y4mnt&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4mnt&layout=compact&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Br4y4nmt&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=algolia"/>
 </p>
 
 <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/> </p>
