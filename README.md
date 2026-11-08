@@ -8,9 +8,7 @@
   <strong>Systems & Informatics Engineer | Software Developer</strong>
 </p>
 
-<p align="center">
-  Passionate about building scalable, efficient, and maintainable software solutions.
-</p>
+
 
 👨‍💻 About Me
 
