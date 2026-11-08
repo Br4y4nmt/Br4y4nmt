@@ -15,15 +15,10 @@
 👨‍💻 About Me
 
 💼 Software Developer at Universidad de Huánuco (UDH)
-
 🎓 Systems and Informatics Engineer
-
 ⚙️ Focused on Backend Development, Software Architecture, and Microservices
-
 🏗️ Interested in designing scalable APIs and distributed systems
-
 📚 Committed to continuous learning and clean code practices
-
 🌱 Currently expanding my knowledge of modern backend technologies
 
 📫 Contact
