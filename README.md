@@ -1,9 +1,11 @@
-👋 Hi, I'm Bryan Junior Medina Tixe
+
 
 <p align="center">
   <img src="./assets/Animaci%C3%B3n%20del%20Octocat%20ne%C3%B3n%20cibern%C3%A9tico.gif" width="180" alt="Blue Digital Circuits Animation"/>
 </p>
-
+<h1 align="center">
+  👋 Hola, soy Bryan Junior Medina Tixe
+</h1>
 <p align="center">
   <strong>Systems & Informatics Engineer | Software Developer</strong>
 </p>
