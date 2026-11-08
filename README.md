@@ -1,6 +1,10 @@
 👋 Hi, I'm Bryan Junior Medina Tixe
 
 <p align="center">
+  <img src="./assets/Animaci%C3%B3n%20del%20Octocat%20ne%C3%B3n%20cibern%C3%A9tico.gif" width="180" alt="Blue Digital Circuits Animation"/>
+</p>
+
+<p align="center">
   <strong>Systems & Informatics Engineer | Backend Developer</strong>
 </p>
 
@@ -24,24 +28,24 @@
 
 📫 Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:juniormt805@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/bryan-junior-medina-tixe-34792a2b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/bryan-junior-medina-tixe-34792a2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portafolio-web-blush.vercel.app/" target="_blank">
+  <a href="https://portafolio-web-blush.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/brayan_medina07" target="_blank">
+  <a href="https://www.instagram.com/brayan_medina07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 🛠️ Tech Stack
 
-<img align="right" alt="Night Coding" width="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" alt="Night Coding" width="280" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 **Languages**
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
