@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Systems & Informatics Engineer | Backend Developer</strong>
+  <strong>Systems & Informatics Engineer | Software Developer</strong>
 </p>
 
 <p align="center">
