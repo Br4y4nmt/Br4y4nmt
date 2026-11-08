@@ -75,52 +75,30 @@
 
 ---
 
-🚀 Developer Profile
+## 📊 GitHub Analytics
 
 <p align="center">
-  <strong>Focused on building reliable, scalable, and maintainable software.</strong>
-</p>
-
-Area
-
-Focus
-
-💻 Backend Development
-
-REST APIs, business logic, server-side applications
-
-🏗️ Software Architecture
-
-Clean Architecture, SOLID, design patterns
-
-🔗 Distributed Systems
-
-Microservices, Apache Kafka
-
-🗄️ Data Management
-
-SQL, NoSQL, caching and database optimization
-
-☁️ DevOps & Cloud
-
-Docker, Git, Google Cloud
-
-🎯 Engineering Principles
-
-Clean, readable, and maintainable code.
-
-Scalable and efficient software architecture.
-
-Secure API design and best development practices.
-
-Continuous learning and technical improvement.
-
-<p align="center">
-  <strong>💡 Turning ideas into software solutions.</strong>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Br4y4nmt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Br4y4nmt&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
+<p align="center">
+  <i>Building, contributing, and improving every day. 🚀</i>
+</p>
 
