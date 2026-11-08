@@ -1,28 +1,47 @@
-![Bryan Medina Banner](./assets/banergithub1.png)
+👋 Hi, I'm Bryan Junior Medina Tixe
 
-<h2 align="center">Hi, I'm Bryan Junior Medina Tixe 👋</h2>
 <p align="center">
-  Systems & Informatics Engineer | Software Developer
+  <strong>Systems & Informatics Engineer | Backend Developer</strong>
 </p>
 
----
+<p align="center">
+  Passionate about building scalable, efficient, and maintainable software solutions.
+</p>
 
-## 👨‍💻 About Me
-- 💼 Software Developer at **Universidad de Huánuco (UDH)**
-- 🎓 Systems and Informatics Engineer
-- ⚙️ Focused on **Backend Development**, **Software Architecture** and **Microservices**
-- 📚 Continuous learner, passionate about clean code and scalable systems
-- 🌱 Currently improving skills in modern backend technologies
+👨‍💻 About Me
 
-📫 **Contact:**  
-- Email: [juniormt805@gmail.com](mailto:juniormt805@gmail.com)
-- LinkedIn: [Brayan Medina Tixe](https://www.linkedin.com/in/bryan-junior-medina-tixe-34792a2b2/)
-- Portfolio: https://portafolio-web-blush.vercel.app/
-- Instagram: https://www.instagram.com/brayan_medina07
----
+💼 Software Developer at Universidad de Huánuco (UDH)
 
-## 🛠 Tech Stack
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+🎓 Systems and Informatics Engineer
+
+⚙️ Focused on Backend Development, Software Architecture, and Microservices
+
+🏗️ Interested in designing scalable APIs and distributed systems
+
+📚 Committed to continuous learning and clean code practices
+
+🌱 Currently expanding my knowledge of modern backend technologies
+
+📫 Contact
+
+<p align="left">
+  <a href="mailto:juniormt805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-junior-medina-tixe-34792a2b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portafolio-web-blush.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.instagram.com/brayan_medina07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+🛠️ Tech Stack
+
+<img align="right" alt="Night Coding" width="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 **Languages**
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -54,10 +73,13 @@
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Br4y4nmt&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+</p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Br4y4nmt&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=algolia"/>
+  <i>Building solutions, learning continuously, and growing through code.</i>
 </p>
 
 
