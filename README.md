@@ -72,14 +72,52 @@
 
 ---
 
-## 📊 GitHub Analytics
+🚀 Developer Profile
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Br4y4nmt&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br4y4nmt&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+  <strong>Focused on building reliable, scalable, and maintainable software.</strong>
+</p>
+
+Area
+
+Focus
+
+💻 Backend Development
+
+REST APIs, business logic, server-side applications
+
+🏗️ Software Architecture
+
+Clean Architecture, SOLID, design patterns
+
+🔗 Distributed Systems
+
+Microservices, Apache Kafka
+
+🗄️ Data Management
+
+SQL, NoSQL, caching and database optimization
+
+☁️ DevOps & Cloud
+
+Docker, Git, Google Cloud
+
+🎯 Engineering Principles
+
+Clean, readable, and maintainable code.
+
+Scalable and efficient software architecture.
+
+Secure API design and best development practices.
+
+Continuous learning and technical improvement.
+
+<p align="center">
+  <strong>💡 Turning ideas into software solutions.</strong>
 </p>
 
 <p align="center">
-  <i>Building solutions, learning continuously, and growing through code.</i>
+  <i>Always learning. Always building. Always improving.</i>
 </p>
 
 
